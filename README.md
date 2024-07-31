@@ -26,6 +26,9 @@ The script offers the following functionalities:
 - System Performance Metrics: Gathers CPU usage and available memory statistics.
 - Scheduled Task Audit: Lists scheduled tasks with their names, state, and last run time.
 - Report Generation: Creates a JSON report containing the results of all audit checks, saved to C:\temp\pentest_report.json.
+  
+  ![tela_1](https://github.com/user-attachments/assets/99649324-4d47-4693-a9c7-27ee1875d1ce)
+
 
 # Usage
 
